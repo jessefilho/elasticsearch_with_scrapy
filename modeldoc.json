@@ -1,0 +1,35 @@
+{
+    "name_team":"Liquid",
+    "ranking":"1",
+    "players":
+        [
+            {
+                "nick_player":"nitr0",
+                "age":"23 years",
+                "trophies":["IEM Chicago 2019",
+                            "BLAST Pro Series Los Angeles 2019",
+                            "ESL One Cologne 2019",
+                            "ESL Pro League Season 9 Finals",
+                            "DreamHack Masters Dallas 2019",
+                            "IEM Sydney 2019",
+                            "iBUYPOWER Masters 2019",
+                            "SuperNova CS:GO Malta",
+                            "cs_summit 2"],
+                "total_kills":"20874",
+                "headshot":"44,1%",
+                "total_deaths":"19911",
+                "kd_ratio":"1.05",
+                "damage_per_round":"73.6",
+                "grenade_dmg_round":"4.8",
+                "maps_played":"1162",
+                "rounds_played":"30197",
+                "kiils_per_round":"0.69",
+                "assists_per_round":"0.14",
+                "death_per_round":"0.66",
+                "saved_by_teammates_per_round":"0.11",
+                "saved_teammates_per_round":"0.10",
+                "rating_1":"1.02"
+            }
+        ]
+
+}
